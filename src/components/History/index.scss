@@ -1,0 +1,22 @@
+.Carousel {
+    display: block;
+    padding-top: 18%;
+    height: 10%;
+    width: 0 auto;
+    
+}
+
+.react-3d-carousel ,
+.slider-container ,
+.slider-content ,
+.slider-single ,
+.slider-single-content img {
+    max-width: 90%;
+    cursor: pointer;
+    border-radius: 1%;
+    -webkit-border-radius: 1%;
+    -moz-border-radius: 1%;
+    -ms-border-radius: 1%;
+    -o-border-radius: 1%;
+}
+
